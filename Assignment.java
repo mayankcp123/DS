@@ -31,7 +31,7 @@ class ElectricParameters
 	}
 	//3
 	double Current (int R, float V) {
-		System.out.println("fun3 is doing some activity");
+		System.out.println("Calculating the value of current.");
 		System.out.println("R=" +R);
 		System.out.println("V=" +V);
 		System.out.println("------------------");
