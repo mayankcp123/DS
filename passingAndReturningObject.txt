@@ -1,0 +1,23 @@
+class fruit
+{
+	seed eatTheFruit()
+	return seed
+}
+class seed
+{
+	seedling plantation(water w,fertilizer f, sunlight s)
+	return seedling;
+}
+class seedling
+{
+	plant takingCare(water w, fertilizer f, sunlight s)
+	return plant
+} 
+class plant 
+{
+	void provideOxygen()
+}
+class water{}
+class fertilizer{}
+class sunlight{}
+
